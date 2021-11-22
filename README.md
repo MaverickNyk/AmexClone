@@ -1,6 +1,6 @@
-# ExpressTemplate
+# AmexClone
 
-BikeRent is a nodejs template repo to build additional features on top of that.
+AmexClone is a nodejs template repo to build additional features on top of that.
 
 ## Installation
 
